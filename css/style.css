@@ -1,0 +1,32 @@
+table {
+  border-collapse: collapse;
+}
+
+.block {
+  padding: 5px;
+  background-color: black;
+}
+
+.wall {
+  background-color: brown;
+}
+
+.path {
+  background-color: black;
+}
+
+.inicio {
+  background-color: blue;
+}
+
+.fim {
+  background-color: green;
+}
+
+.deadEnd {
+  background-color: black;
+}
+
+.caminho {
+  background-color: #2be334;
+}
